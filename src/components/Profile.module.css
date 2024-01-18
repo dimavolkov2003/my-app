@@ -1,0 +1,25 @@
+.profile_info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container {
+    width: 80%;
+    margin-left: 20px;
+}
+.profile {
+    margin: 0 25px;
+}
+.profile_info img {
+    width: 100px;
+}
+.about_user {
+    padding-top: 25px;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.title {
+    text-align: center;
+}

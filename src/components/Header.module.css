@@ -1,0 +1,25 @@
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.logo {
+    width: 15%;
+    min-width: 100px;
+}
+.logo img {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+}
+.name_website {
+    margin-top: 1px;
+    width: 80%;
+    text-align: center;
+    color: #fcc105;
+    text-shadow: 4px 4px #ff981d, 7px 7px rgba(200, 120, 22, .2);   
+    text-decoration-style: solid;
+    font-size: 64px;
+}
